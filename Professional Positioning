@@ -15,6 +15,37 @@ Skilled in building and managing SIEM capabilities, coordinating penetration tes
 
 Focused on strengthening organizational cyber resilience through proactive monitoring, detection engineering, access governance, vulnerability remediation, user risk reduction, and enterprise security platform ownership.
 
+## Security Platforms Managed
+
+| Category | Platforms |
+|---|---|
+| Endpoint / MDR | CrowdStrike Falcon, Expel MDR |
+| Vulnerability Management | Rapid7 InsightVM, Tenable.sc, Tenable.io |
+| SIEM / Logging | Graylog, Wazuh, Sumo Logic Cloud SIEM |
+| Microsoft Security | Microsoft 365 E5, Microsoft Entra ID, Microsoft Defender, Microsoft Purview |
+| DNS / Web Security | Cisco Umbrella, Conceal Browser |
+| Email Security | Egress, Valimail, Microsoft Defender for Office 365 |
+| Awareness / Phishing | KnowBe4, PhishER |
+| Identity / Auditing | Active Directory, ADAudit Plus |
+| Service / Project Management | ServiceNow, SolarWinds Service Desk, Monday.com |
+| Secure Workspace | KASM |
+
+---
+
+## Enterprise Security Ownership
+
+Responsible for the administration, governance, operational support, and continuous improvement of enterprise cybersecurity solutions including:
+
+- Endpoint Detection & Response (CrowdStrike Falcon)
+- Managed Detection & Response (Expel MDR)
+- Enterprise SIEM Platforms (Graylog, Wazuh, Sumo Logic)
+- Vulnerability Management (Rapid7 InsightVM)
+- Identity & Access Management (Microsoft Entra ID)
+- DNS & Internet Security (Cisco Umbrella)
+- Security Awareness & Phishing Defense (KnowBe4 & PhishER)
+- Email Security & Authentication Controls (Egress, Valimail)
+- Active Directory Auditing (ADAudit Plus)
+  
 ## Professional Positioning
 
 I bring a broad cybersecurity profile that combines:
@@ -29,8 +60,7 @@ I bring a broad cybersecurity profile that combines:
 - Compliance Support and Audit Evidence Preparation
 - Security Tool Administration and Process Improvement
 
-This portfolio is focused on documenting my cybersecurity learning journey, security projects, technical notes, SIEM concepts, threat hunting knowledge, and practical security operations experience.
-
+This portfolio demonstrates my practical experience in enterprise cybersecurity, including security operations, SIEM engineering, identity governance, vulnerability management, threat detection, Microsoft security administration, security platform ownership, and continuous security improvement initiatives.
 ---
 
 ## Core Areas of Focus
@@ -51,6 +81,19 @@ CrowdStrike Falcon, Expel MDR, Microsoft Defender, Graylog, Wazuh, Sumo Logic
 
 ---
 
+## Security Programs Supported
+
+- Security Operations Program
+- Incident Response Operations
+- SIEM & Log Management Program
+- Privileged Access Governance Program
+- Vulnerability Management Program
+- Penetration Test Remediation Program
+- Security Awareness Program
+- Email Security & Authentication Program
+- Compliance & Audit Readiness Support
+- Security Process Automation & Reporting
+  
 ### SIEM Engineering & Log Management
 
 - Enterprise SIEM Implementation
@@ -187,23 +230,6 @@ Tenable.sc and Tenable.io
 
 ---
 
-## Security Platforms Managed
-
-| Category | Platforms |
-|---|---|
-| Endpoint / MDR | CrowdStrike Falcon, Expel MDR |
-| Vulnerability Management | Rapid7 InsightVM, Tenable.sc, Tenable.io |
-| SIEM / Logging | Graylog, Wazuh, Sumo Logic Cloud SIEM |
-| Microsoft Security | Microsoft 365 E5, Microsoft Entra ID, Microsoft Defender, Microsoft Purview |
-| DNS / Web Security | Cisco Umbrella, Conceal Browser |
-| Email Security | Egress, Valimail, Microsoft Defender for Office 365 |
-| Awareness / Phishing | KnowBe4, PhishER |
-| Identity / Auditing | Active Directory, ADAudit Plus |
-| Service / Project Management | ServiceNow, SolarWinds Service Desk, Monday.com |
-| Secure Workspace | KASM |
-
----
-
 ## Security Programs & Responsibilities
 
 - Enterprise SIEM Implementation and Administration
@@ -246,36 +272,12 @@ KnowBe4 and PhishER-based awareness program concepts, phishing simulation govern
 
 ---
 
-## Learning Journey
-
-Currently building and documenting practical cybersecurity skills through:
-
-- Microsoft Learn
-- TryHackMe
-- LetsDefend
-- CyberDefenders
-- PortSwigger Web Security Academy
-- Hack The Box
-- MITRE ATT&CK
-
-Focus areas include SOC investigations, Microsoft security, SIEM engineering, threat hunting, web security, incident response, and blue-team operations.
-
----
-
 ## Target Roles
 
-This portfolio aligns with roles such as:
-
-- Senior Security Analyst
-- Cybersecurity Analyst
-- Cybersecurity Engineer
-- Security Operations Analyst
-- SOC Lead
-- SIEM Engineer
-- IAM / PAM Analyst
-- Vulnerability Management Analyst
+- Senior Cyber Security Analyst
+- Security Operations / SOC Lead
 - Security Governance Analyst
-- Security Operations Lead
+- Security Program Lead
 
 ---
 
